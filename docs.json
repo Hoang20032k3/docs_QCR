@@ -40,6 +40,12 @@
             ]
           },
           {
+            "group": "Quản lý form đánh giá",
+            "pages": [
+              "QL_formdanhgia"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
