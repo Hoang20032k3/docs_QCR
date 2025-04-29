@@ -22,6 +22,24 @@
             ]
           },
           {
+            "group": "Đánh giá chất lượng vệ sinh",
+            "pages": [
+              "trang_DGCLVS"
+            ]
+          },
+          {
+            "group": "Quản lý danh sách đánh giá",
+            "pages": [
+              "QL_danhsachdanhgia"
+            ]
+          },
+          {
+            "group": "Quản lý lịch làm việc",
+            "pages": [
+              "QL_lichlamviec"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
