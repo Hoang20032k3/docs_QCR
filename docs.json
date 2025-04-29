@@ -46,14 +46,21 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Quản lý tiêu chí",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "QL_tieuchi"
+            ]
+          },
+          {
+            "group": "Quản lý danh sách ca làm việc",
+            "pages": [
+              "QL_calamviec"
+            ]
+          },
+          {
+            "group": "Quản lý danh sách nhóm phòng",
+            "pages": [
+              "QL_danhsachnhompong"
             ]
           }
         ]
