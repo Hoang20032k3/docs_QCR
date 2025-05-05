@@ -60,6 +60,14 @@
             "pages": [
               "QL_danhsachnhompong"
             ]
+          },
+          {
+            "group": "Quản lý nhóm người chịu trách nhiệm",
+            "pages": [
+              "list_nhomnguoichiutrachnhiem",
+              "Ds_Nhom",
+              "Nhomchiutrachnhiemchotag"
+            ]
           }
         ]
       },
